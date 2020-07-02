@@ -1,0 +1,12 @@
+.content { 
+  margin-left: 2rem;
+  line-height: normal;
+  font-family: fantasy;
+}
+
+.title {
+  font-weight: bold;
+  line-height: normal;
+  margin-bottom: 0rem;
+}
+

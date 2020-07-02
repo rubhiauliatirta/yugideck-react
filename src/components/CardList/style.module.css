@@ -1,0 +1,6 @@
+.button:hover {
+  cursor: copy !important;
+}
+.noclick:hover {
+  cursor: not-allowed !important;
+}

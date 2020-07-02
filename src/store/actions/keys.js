@@ -1,0 +1,8 @@
+export const ADD_YUGIOH_CARDS = "ADD_YUGIOH_CARDS"
+export const SET_YUGIOH_LOADING = "SET_YUGIOH_LOADING"
+export const USER_LOGIN = "USER_LOGIN"
+export const USER_LOGOUT = "USER_LOGOUT"
+export const SET_SELECTED_DECK = "SET_SELECTED_DECK"
+export const SET_DETAIL_ID = "SET_DETAIL_ID"
+
+
